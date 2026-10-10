@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:06B6D4&height=260&section=header&text=Walid%20Lebhir&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI&descSize=18&descAlignY=62" width="100%" />
+<img src="./header.svg" alt="Walid Lebhir - Software Engineer" width="100%" />
 
 <a href="https://github.com/walidlebhir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%87%B2%F0%9F%87%A6;Backend+%26+Microservices+Enthusiast;Cloud+%2F+DevOps+%2F+CI-CD+Explorer;Building+AI+apps+with+LLMs+%26+MCP;Looking+for+a+PFE+Internship+2027+%F0%9F%8E%AF" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%87%B2%F0%9F%87%A6;Backend+%26+Microservices+Enthusiast;Cloud+%2F+DevOps+%2F+CI-CD+Explorer;Building+AI+apps+with+LLMs+%26+MCP;Looking+for+a+PFE+Internship+2027+%F0%9F%8E%AF" alt="Typing animation" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/lebhir-walid-602390288/">
   <img src="https://img.shields.io/badge/LinkedIn-Walid%20Lebhir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
