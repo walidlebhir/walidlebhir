@@ -8,7 +8,7 @@
 <a href="https://github.com/walidlebhir">
   <img src="https://img.shields.io/badge/GitHub-walidlebhir-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="[https://www.linkedin.com/in/lebhir-walid](https://www.linkedin.com/in/lebhir-walid-602390288/?isSelfProfile=true)">
+<a href="https://www.linkedin.com/in/lebhir-walid-602390288/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:walidelbhir@gmail.com">
