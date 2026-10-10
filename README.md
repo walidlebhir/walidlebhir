@@ -167,10 +167,9 @@ AI-powered applications and intelligent workflows.
 <!-- ================= CONTRIBUTIONS ================= -->
 
 ## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/walidlebhir/walidlebhir/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" width="100%" />
+<img src="https://raw.githubusercontent.com/walidlebhir/walidlebhir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 
 </div>
 
