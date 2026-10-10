@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**walidlebhir/walidlebhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Walid 👋
 
-Here are some ideas to get you started:
+### Software Engineering Student | Backend | DevOps | AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Engineering Student in Morocco
+
+I'm interested in designing scalable software systems,
+building reliable backend applications, and deploying
+cloud-native solutions.
+
+- 💻 Backend: Java, Spring Boot, NestJS, Python, FastAPI
+- 🏗️ Architecture: REST APIs, Microservices, System Design
+- ☁️ DevOps & Cloud: Docker, AWS, Terraform, CI/CD
+- 🤖 AI Engineering: LLMs, LangGraph, MCP
+- 🎯 Looking for a PFE internship in 2027
+
+## 🚀 Featured Projects
+
+- **TaxiFlow** — Multi-tenant taxi platform and microservices
+- **SpendPilot** — Expense management SaaS with MCP integration
+- **ClinicOS** — Medical practice management platform
+
+## 🛠️ Technologies
+
+Java • Spring Boot • TypeScript • NestJS • Python • React
+PostgreSQL • Redis • Docker • AWS • Terraform • GitHub Actions
+
+## 🤝 Connect with Me
+
+- GitHub: https://github.com/walidlebhir
+- LinkedIn: [Add your LinkedIn profile URL]
