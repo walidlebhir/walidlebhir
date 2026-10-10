@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/GitHub-walidlebhir-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://www.linkedin.com/in/lebhir-walid" />
 </a>
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
