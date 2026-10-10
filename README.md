@@ -167,11 +167,14 @@ AI-powered applications and intelligent workflows.
 <!-- ================= CONTRIBUTIONS ================= -->
 
 ## 🐍 Contribution Graph
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/walidlebhir/walidlebhir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/walidlebhir/walidlebhir/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 <!-- Snake animation requires a GitHub Actions workflow.
      Setup: https://github.com/Platane/snk -->
