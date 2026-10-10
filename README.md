@@ -168,12 +168,14 @@ AI-powered applications and intelligent workflows.
 
 ## 🐍 Contribution Graph
 
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/walidlebhir/walidlebhir/output/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <a href="https://github.com/walidlebhir/walidlebhir/blob/output/github-snake-dark.svg">
+    <img
+      src="https://img.shields.io/badge/🐍-View%20Contribution%20Graph-161B22?style=for-the-badge"
+      alt="View Contribution Graph"
+    />
+  </a>
 </p>
 
 <!-- Snake animation requires a GitHub Actions workflow.
