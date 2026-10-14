@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0B5A,50:8A2BE2,100:FF1493&height=180&section=header&text=Walid%20Lebhir&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20Architecture%20%7C%20DevOps%20%7C%20Agentic%20AI&descSize=14&descAlignY=62" width="100%" />
-
-</div>
 
 ---
 
