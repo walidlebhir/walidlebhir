@@ -1,19 +1,12 @@
-
 <!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Walid%20Lebhir&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%7C%20Backend%20%7C%20DevOps%20%7C%20AI&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:111827,100:1E293B&height=200&section=header&text=Walid%20Lebhir&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20Architecture%20%7C%20DevOps%20%7C%20AI&descSize=14&descAlignY=62" width="100%" />
 
-<a href="https://github.com/walidlebhir">
-  <img src="https://img.shields.io/badge/GitHub-walidlebhir-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/lebhir-walid-602390288/?isSelfProfile=true">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:walidelbhir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-walidlebhir-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/walidlebhir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lebhir-walid-602390288/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-walidelbhir%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidelbhir@gmail.com)
 
 </div>
 
@@ -23,15 +16,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding animation" width="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img align="right" alt="Clean Code Animation" width="280" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-🎓 Computer Engineering Student in Morocco.
+Computer Engineering student based in Morocco, passionate about designing robust systems and scalable backend architectures.
 
-- 🏗️ Interested in **Software Architecture & System Design**
-- ⚙️ Building backend applications and REST APIs
-- ☁️ Exploring **Cloud Computing, DevOps & CI/CD**
-- 🤖 Developing AI applications with LLMs and MCP
-- 🎯 Looking for a **PFE Internship in 2027**
+- 🏗️ **Architecture & Design:** Focused on Software Architecture, Clean Code, and System Design principles.
+- ⚙️ **Backend Engineering:** Building high-performance backend applications, microservices, and REST APIs.
+- ☁️ **Cloud & DevOps:** Exploring Cloud Computing, containerization, and automated CI/CD pipelines.
+- 🤖 **AI Engineering:** Developing intelligent applications leveraging LLMs and tool integration (MCP).
+- 🎯 **Looking Ahead:** Seeking a **PFE Internship starting in 2027** to contribute to high-impact projects.
 
 <br clear="right"/>
 
@@ -41,106 +34,16 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java`, `Python`, `TypeScript`, `JavaScript`, `C#` |
+| **Backend** | `Spring Boot`, `NestJS`, `Node.js`, `FastAPI` |
+| **Frontend** | `React`, `Next.js`, `HTML5`, `CSS3` |
+| **Databases & Messaging** | `PostgreSQL`, `MySQL`, `Redis`, `RabbitMQ` |
+| **DevOps & Cloud** | `Docker`, `Kubernetes`, `AWS`, `Terraform`, `GitHub Actions`, `Linux`, `Git` |
+| **AI & LLMs** | `LangChain`, `LLMs`, `MCP (Model Context Protocol)` |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cs" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,fastapi" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-</p>
-
-### 🗄️ Databases & Messaging
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq" />
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,linux,git" />
-</p>
-
-### 🤖 AI Engineering
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-AI%20Engineering-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-Tool%20Integration-2563EB?style=for-the-badge" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚕 TaxiFlow
-
-Multi-tenant taxi booking platform built around microservices.
-
-- Spring Boot & Java
-- Distributed tracking
-- API Gateway and service communication
-- Cloud-native architecture
-
-</td>
-<td width="50%">
-
-### 💼 SpendPilot
-
-Mission and expense management SaaS.
-
-- NestJS & TypeScript
-- PostgreSQL
-- Workflow automation
-- MCP tools integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 ClinicOS
-
-Medical practice management platform.
-
-- Spring Boot
-- React / Next.js
-- PostgreSQL & Redis
-- JWT authentication
-
-</td>
-<td width="50%">
-
-### 🤖 AI Engineering
-
-AI-powered applications and intelligent workflows.
-
-- Python & FastAPI
-- LLM integration
-- LangGraph
-- AI service integration
-
-</td>
-</tr>
-</table>
-
-<!-- Replace each project title with a link to its repository when available. -->
+*(Or if you prefer visual badge icons, you can keep your original layout below)*
 
 ---
 
@@ -150,15 +53,15 @@ AI-powered applications and intelligent workflows.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=walidlebhir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=walidlebhir&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidlebhir&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidlebhir&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 15px;">
 
-<img src="https://streak-stats.demolab.com?user=walidlebhir&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=walidlebhir&theme=vue-dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF" />
 
 </div>
 
@@ -168,40 +71,29 @@ AI-powered applications and intelligent workflows.
 
 ## 🐍 Contribution Graph
 
-
 <p align="center">
   <a href="https://github.com/walidlebhir/walidlebhir/blob/output/github-snake-dark.svg">
-    <img
-      src="https://img.shields.io/badge/🐍-View%20Contribution%20Graph-161B22?style=for-the-badge"
-      alt="View Contribution Graph"
-    />
+    <img src="https://img.shields.io/badge/🐍_View_Contribution_Graph-0D1117?style=for-the-badge&color=1F2937&logoColor=white" alt="View Contribution Graph" />
   </a>
 </p>
-
-<!-- Snake animation requires a GitHub Actions workflow.
-     Setup: https://github.com/Platane/snk -->
 
 ---
 
 <!-- ================= CONNECT ================= -->
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm interested in building reliable software systems,
-exploring cloud technologies, and solving real-world problems.
+I am always open to discussing new software engineering challenges, cloud technologies, or innovative AI projects.
 
-<a href="https://github.com/walidlebhir">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
+<br/>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/walidlebhir)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lebhir-walid-602390288/?isSelfProfile=true)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:090D16&height=100&section=footer" width="100%" />
 
 </div>
