@@ -14,9 +14,9 @@
 
 <!-- ================= WHOAMI ================= -->
 
-## whoami
+## Who am I?
 
-I'm **Walid Lebhir** — a State Computer Engineering student based in Morocco, specializing in Data Engineering, Software Architecture, and Backend Systems.
+I'm **Walid Lebhir** — a State Computer Engineering student based in Morocco, specializing in software Engineering, Software Architecture, and Backend Systems.
 
 - 🏗️ **Backend & Architecture:** Building high-performance REST APIs, Microservices, and Event-Driven systems with Java (Spring Boot) and Python.
 - 🤖 **AI & Agentic Systems:** Developing RAG-based systems, vector search solutions, and AI agents using LangChain, LangGraph, CrewAI, and Spring AI MCP.
